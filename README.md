@@ -11,3 +11,6 @@ Or you can copy from here
     https://github.com/mrohith29/infinite_audio_player/blob/main/play_audio.py
 
 #### ***copy the code and run it in your local code editor or python IDE and enjoy 😎😎***
+
+## Requirements
+your audio file should be <span style="color:blue">mp3 format</span> or <span style="color:blue">WAV format</span>
